@@ -1,2 +1,2 @@
-# DLSSUpdater
-DLSSUpdater
+# DLSS-Update-Guide
+DLSS-Update-Guide
