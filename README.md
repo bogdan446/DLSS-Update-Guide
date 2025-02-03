@@ -44,4 +44,13 @@
 - when asked for DLL path, drag+drop an nvngx_dlss file into the window, and press enter
 - if Run with PowerShell option doesn't appear, you can also run through command prompt or powershell: "powershell C:\Users\emoose\Downloads\UpdateDLSS.ps1"
 
+ 
+> [!NOTE]
+> Script creation:
+
 ![](https://github.com/bogdan446/DLSS-Update-Guide/blob/main/Media/Example1.gif)
+
+> [!NOTE]
+> Usage:
+
+![](https://github.com/bogdan446/DLSS-Update-Guide/blob/main/Media/Example2.gif)
